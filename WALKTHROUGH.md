@@ -62,6 +62,12 @@ Now if Kaitlin had these scores:
 
 Kaitlin would get to see bonus sex scenes with Marcus (Rules 1-5 = 5 points) if they went on a date, and home base with Chris (Rules 1, 3, 4, 5 = 4 points).
 
+### Day 3+ Logic
+
+If this is the first event between the 2 characters, the maximum level will be 3 regardless of rule score.
+
+Your rule score is also restricted by the highest previous event you reached with that character.  For example if you only had a level 2 event the previous day due to scoring, you can only have a level 3 event the next day, even if you have enough rule points to get further.
+
 ## Avoiding NTR/Kaitlin's Events
 
 If for whatever reason you wish to completely avoid Kaitlin's events, simply keep her score with Erik above 0.  They will still occur depending on the event score above, however the furthest she can get is third base (Rules 1-3).  You may still see the repercussions of these events, but she may lie about them.
