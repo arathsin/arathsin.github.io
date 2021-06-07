@@ -4,11 +4,11 @@
 
     [ 100% ] bug fixes for previous update
     [ 100% ] engine prep work (flags, logic, etc)
-    [  80% ] story outline
+    [  90% ] story outline
     [  70% ] asset prep (models, outfits, materials, environments)
     [  10% ] game mechanics / playtesting
     [    0 ] dialogue writing
-    [  141 ] renders
+    [  152 ] renders
 
 **Day 2**:
 
