@@ -8,7 +8,7 @@
     [  70% ] asset prep (models, outfits, materials, environments)
     [  10% ] game mechanics / playtesting
     [    0 ] dialogue writing
-    [  165 ] renders
+    [  166 ] renders
 
 **Day 2**:
 
